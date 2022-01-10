@@ -3,7 +3,7 @@
 |-|-|
 |Name|Teteo|
 |Language|Japanease<br>Java<br>Javascript<br>C#<br>php<br>Ruby<br>C++<br>(can't use English)|
-|Detail|仕事に疲れる一般プログラマー<br>ゲーム会社で日々ゲームサーバーを実装<br>レガシーな開発しかやってないんで、モダンな開発してみたい<br>AWSでインフラのお勉強中|
+|Detail|仕事に疲れる一般プログラマー<br>会社で日々APIサーバーを実装<br>レガシーな開発しかやってないんで、モダンな開発してみたい<br>AWSでインフラのお勉強中|
 
 
 <!--
